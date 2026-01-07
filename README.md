@@ -16,9 +16,9 @@ Hi, I'm *Preetham Pereira* – a passionate 💻 Cloud Security Engineer & Cyber
   - 🎓 MCA @ Jain University, Bangalore - India
   - 🏫 BBA @ Padua College of Commerce and Management, Mangalore - India
 
-- 📫 *Email:* [![Gmail Badge](https://img.shields.io/badge/Gmail-ashithfernandes319@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:ashithfernandes319@gmail.com)
+- 📫 *Email:* [![Gmail Badge](https://img.shields.io/badge/Gmail-mcapreetham@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:mcapreetham@gmail.com)
 
-- 💼 *LinkedIn:* [![LinkedIn Badge](https://img.shields.io/badge/-Ashith%20Fernandes-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashith-fernandes-22a0252b3/)
+- 💼 *LinkedIn:* [![LinkedIn Badge](https://img.shields.io/badge/-Preetham%20Pereira-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preetham-pereira/)
 
 - 📱 *Featured Project:* [![Study Buddy App](https://img.shields.io/badge/GitHub-Study%20Buddy%20App-181717?style=flat&logo=github)](https://github.com/spideyashith/AndriodstudybuddyApp/tree/master)
 
