@@ -1,73 +1,84 @@
 # Hi 👋, I'm Preetham Pereira
 
-🔐 **Cloud Security Enthusiast | DevOps Learner | Linux Power User**  
-Building secure cloud projects and learning in public through hands-on practice.
+🔐 **Cloud Security Enthusiast | DevOps Learner | Linux Engineer**  
+Focused on building secure, scalable cloud solutions through hands-on projects and continuous learning.
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-- 🔭 Currently working on **cloud & security mini-projects** and real-world assessments  
-- 🌱 Actively learning **AWS, Azure, and Cloud Security fundamentals**  
-- 👯 Open to collaborating on **open-source cloud & DevOps projects**  
-- 🤝 Looking for guidance and mentorship in **Cloud Security & DevSecOps**  
-- 💬 Ask me about **Linux, Bash, PowerShell, Python, Cloud & Security basics**  
-- 📫 Reach me at **mcapreetham@gmail.com**  
-- ⚡ Fun fact: I enjoy optimizing everything — from Linux performance to my workspace setup  
+I am a motivated Cloud and Security learner with a strong foundation in Linux, automation, and DevOps tools.  
+My primary focus is on **Cloud Security**, **IAM**, and **secure infrastructure practices** across AWS and Azure.
+
+I believe in learning by doing, documenting my progress, and contributing wherever possible.
 
 ---
 
-## 🛠️ What I’m Working On Right Now
+## 🔍 Areas of Focus
 
-- 🔐 Understanding **cloud security fundamentals** (IAM, least privilege, access control)
-- ☁️ Hands-on labs in **AWS & Azure**
-- 🐧 Linux hardening, performance tuning & troubleshooting
-- ⚙️ Automation using **Bash & Python**
-- 🚀 Building and documenting projects **in public**
+- Cloud Security fundamentals (IAM, least privilege, access control)
+- Secure cloud infrastructure (AWS & Azure)
+- Linux system administration & hardening
+- Automation using Bash, Python, and PowerShell
+- DevOps tooling and CI/CD fundamentals
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-**Cloud Platforms**  
-- AWS, Azure, GCP  
+### ☁️ Cloud Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+</p>
 
-**DevOps & Containers**  
-- Docker, Kubernetes, Jenkins  
+### ⚙️ DevOps & Containers
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git" />
+</p>
 
-**Security & OS**  
-- Linux, Cloud Security Basics, IAM  
+### 🐧 Operating Systems & Security
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
 
-**Scripting & Automation**  
-- Bash, Python, PowerShell  
+### 📜 Scripting & Automation
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bash,python,powershell" />
+</p>
 
-**Version Control**  
-- Git  
+---
+
+## 🛠️ Current Work
+
+- 🔐 Building **cloud security mini-projects**
+- ☁️ Practicing hands-on labs in **AWS & Azure**
+- 🐧 Linux performance tuning, troubleshooting, and hardening
+- ⚙️ Writing automation scripts for real-world use cases
+- 📘 Documenting my learning journey publicly
 
 ---
 
 ## 📘 Learning in Public
 
-I believe in learning by doing and sharing. 
+I actively document my learning and experiments through:
+- GitHub repositories and technical notes
+- Hands-on labs and assessments
+- Real-world troubleshooting scenarios
+- Educational content on LinkedIn and YouTube
 
-I document my journey through:
-- GitHub repositories & notes  
-- Hands-on labs and mini projects  
-- Real-world troubleshooting scenarios  
-- Content on LinkedIn & YouTube  
-
-🎯 **Goal:** Grow into a strong **Cloud Security / DevOps Engineer** with real-world skills.
+🎯 **Career Goal:**  
+To become a skilled **Cloud Security / DevOps Engineer** with strong practical experience.
 
 ---
 
 ## 🚀 Featured Projects
 
-> *(Pin these repositories on your GitHub profile)*
+> *(Pinned repositories on my profile)*
 
-- 🔐 **Cloud Security Labs** – IAM, permissions, and access control practice  
-- 🐧 **Linux Notes & Scripts** – Commands, internals, and automation  
-- ⚙️ **Bash Automation** – Real-world task automation  
-- ☁️ **AWS / Azure Mini Projects** – Hands-on cloud practice  
+- 🔐 **Cloud Security Labs** – IAM, access control, and security fundamentals  
+- 🐧 **Linux Administration & Notes** – Commands, internals, and best practices  
+- ⚙️ **Automation Scripts** – Bash & Python automation  
+- ☁️ **AWS / Azure Mini Projects** – Practical cloud implementations  
 
 ---
 
@@ -92,11 +103,11 @@ I document my journey through:
 
 ## 📬 Open To
 
-- 🤝 Cloud & DevOps collaborations  
-- 🔐 Security learning groups  
-- 🌱 Open-source contributions  
-- 💡 Knowledge sharing & mentorship  
+- Cloud & DevOps collaborations  
+- Cloud Security learning groups  
+- Open-source contributions  
+- Knowledge sharing and mentorship  
 
 ---
 
-⭐ *If you like what I’m building, feel free to connect or collaborate!*
+⭐ *Thank you for visiting my profile. Feel free to connect or collaborate.*
