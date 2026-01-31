@@ -1,39 +1,101 @@
 # Hi 👋, I'm Preetham Pereira
 
-### Learning about Cloud Security
+🔐 **Cloud Security Enthusiast | DevOps Learner | Linux Power User**  
+Building secure cloud projects and learning in public through hands-on practice.
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=H4KOPS&label=Profile views&color=0e75b6&style=flat" alt="H4KOPS" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=H4KOPS" alt="H4KOPS" /></a> </p> -->
+## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **mini projects and collaborating in day to day assessments.**
+- 🔭 Currently working on **cloud & security mini-projects** and real-world assessments  
+- 🌱 Actively learning **AWS, Azure, and Cloud Security fundamentals**  
+- 👯 Open to collaborating on **open-source cloud & DevOps projects**  
+- 🤝 Looking for guidance and mentorship in **Cloud Security & DevSecOps**  
+- 💬 Ask me about **Linux, Bash, PowerShell, Python, Cloud & Security basics**  
+- 📫 Reach me at **mcapreetham@gmail.com**  
+- ⚡ Fun fact: I enjoy optimizing everything — from Linux performance to my workspace setup  
 
-- 🌱 I'm currently learning **AWS and Azure**
+---
 
-- 👯 I'm looking to collaborate on **open source projects (cloud)**
+## 🛠️ What I’m Working On Right Now
 
-- 🤝 I'm looking for help with **learning cloud security**
+- 🔐 Understanding **cloud security fundamentals** (IAM, least privilege, access control)
+- ☁️ Hands-on labs in **AWS & Azure**
+- 🐧 Linux hardening, performance tuning & troubleshooting
+- ⚙️ Automation using **Bash & Python**
+- 🚀 Building and documenting projects **in public**
 
-- 💬 Ask me about **cybersecurity, bash, powershell, python, cloud security**
+---
 
-- 📫 How to reach me **mcapreetham@gmail.com**
+## 🧰 Tech Stack
 
-- ⚡ Fun fact **I like to innovate things in my life, workspace.**
+**Cloud Platforms**  
+- AWS, Azure, GCP  
 
-<h3 align="left">Connect with me:</h3>
+**DevOps & Containers**  
+- Docker, Kubernetes, Jenkins  
+
+**Security & OS**  
+- Linux, Cloud Security Basics, IAM  
+
+**Scripting & Automation**  
+- Bash, Python, PowerShell  
+
+**Version Control**  
+- Git  
+
+---
+
+## 📘 Learning in Public
+
+I believe in learning by doing and sharing.  
+I document my journey through:
+- GitHub repositories & notes  
+- Hands-on labs and mini projects  
+- Real-world troubleshooting scenarios  
+- Content on LinkedIn & YouTube  
+
+🎯 **Goal:** Grow into a strong **Cloud Security / DevOps Engineer** with real-world skills.
+
+---
+
+## 🚀 Featured Projects
+
+> *(Pin these repositories on your GitHub profile)*
+
+- 🔐 **Cloud Security Labs** – IAM, permissions, and access control practice  
+- 🐧 **Linux Notes & Scripts** – Commands, internals, and automation  
+- ⚙️ **Bash Automation** – Real-world task automation  
+- ☁️ **AWS / Azure Mini Projects** – Hands-on cloud practice  
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://github.com/H4KOPS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="H4KOPS" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/preetham-pereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preetham-pereira" height="30" width="40" /></a>
-<a href="https://instagram.com/cloud_with_preetham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cloud_with_preetham" height="30" width="40" /></a>
-<a href="https://youtube.com/@cloud_with_preetham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cloud_with_preetham" height="30" width="40" /></a>
+<a href="https://github.com/H4KOPS" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
+</a>
+<a href="https://linkedin.com/in/preetham-pereira" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+<a href="https://instagram.com/cloud_with_preetham" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
+<a href="https://youtube.com/@cloud_with_preetham" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+---
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=H4KOPS&show_icons=true&locale=en&layout=compact" alt="H4KOPS" /></p>
+## 📬 Open To
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=H4KOPS&show_icons=true&locale=en" alt="H4KOPS" /></p>
+- 🤝 Cloud & DevOps collaborations  
+- 🔐 Security learning groups  
+- 🌱 Open-source contributions  
+- 💡 Knowledge sharing & mentorship  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=H4KOPS&" alt="H4KOPS" /></p> -->
+---
 
+⭐ *If you like what I’m building, feel free to connect or collaborate!*
