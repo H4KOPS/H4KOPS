@@ -48,7 +48,8 @@ Building secure cloud projects and learning in public through hands-on practice.
 
 ## 📘 Learning in Public
 
-I believe in learning by doing and sharing.  
+I believe in learning by doing and sharing. 
+
 I document my journey through:
 - GitHub repositories & notes  
 - Hands-on labs and mini projects  
