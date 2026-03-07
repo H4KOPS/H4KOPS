@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Preetham Pereira
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Preetham%20Pereira&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%F0%9F%9A%80;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Automation+Advocate+%F0%9F%94%A7;Building+CI%2FCD+Pipelines" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer+%F0%9F%9A%80;Cloud+Native+Architect+%E2%98%81%EF%B8%8F;CI%2FCD+Pipeline+Expert+%F0%9F%94%A7;Infrastructure+as+Code+Advocate;Kubernetes+%26+Container+Specialist" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -12,7 +12,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachout.preetham@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AWFGj3vh)
 
-![Profile Views](https://komarev.com/ghpvc/?username=cloud-with-preetham&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=cloud-with-preetham&label=Profile%20Views&color=00D9FF&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/cloud-with-preetham?style=for-the-badge&color=00D9FF)
+![GitHub Stars](https://img.shields.io/github/stars/cloud-with-preetham?style=for-the-badge&color=00D9FF)
 
 </div>
 
@@ -20,121 +22,238 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="DevOps" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```yaml
 name: Preetham Pereira
 role: DevOps Engineer
 location: India 🇮🇳
 company: TrainWithShubham
-focus: ["#90DaysOfDevOps", "Cloud-Native", "Automation"]
+focus:
+  - Cloud-Native Architecture
+  - Infrastructure Automation
+  - CI/CD Excellence
+  - Container Orchestration
+current_challenge: "#90DaysOfDevOps"
+motto: "Automate Everything, Monitor Everything"
 ```
 
-🚀 Passionate about **automating infrastructure**, optimizing **CI/CD pipelines**, and building **scalable cloud-native systems**.
+🚀 **DevOps Engineer** passionate about transforming infrastructure through automation and cloud-native technologies.
 
-💡 I bridge the gap between development and operations by implementing reliable, efficient, and automated workflows using **Docker**, **Kubernetes**, **Terraform**, and **CI/CD tools**.
+💡 Specializing in building **resilient CI/CD pipelines**, orchestrating **containerized applications**, and implementing **Infrastructure as Code** to deliver scalable, secure, and efficient solutions.
 
-### 🎯 Currently
-- 📚 Completing **#90DaysOfDevOps** challenge
-- 🔨 Building production-ready CI/CD pipelines
-- ☁️ Exploring cloud-native architectures
-- 🎥 Creating DevOps content on YouTube
+### 🎯 What I'm Up To
+
+- 🔥 Completing **#90DaysOfDevOps** challenge
+- 🏗️ Architecting production-grade Kubernetes clusters
+- ⚡ Optimizing CI/CD workflows with GitHub Actions & Jenkins
+- 📹 Sharing DevOps knowledge on [YouTube](https://youtube.com/@cloud_with_preetham)
+- 🌱 Exploring GitOps, Service Mesh & Observability
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,docker,kubernetes,terraform,ansible,python,bash,git,github,jenkins,prometheus,grafana&perline=8" />
-</p>
+<div align="center">
+
+### Core Technologies
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,docker,kubernetes,terraform,ansible,python,bash,git,github,jenkins,prometheus,grafana,gitlab&perline=8" />
+
+</div>
 
 <details>
-<summary><b>📦 Full Stack Details</b></summary>
+<summary><b>🔧 Complete Technology Stack</b></summary>
 <br/>
 
-**☁️ Cloud:** AWS • Azure • Google Cloud  
-**🐳 Containers:** Docker • Kubernetes • Helm  
-**🔧 IaC:** Terraform • Ansible  
-**🔄 CI/CD:** GitHub Actions • Jenkins • GitLab CI  
-**📊 Monitoring:** Prometheus • Grafana • Splunk • ELK  
-**💻 Languages:** Python • Bash • PowerShell • YAML  
-**🗄️ Databases:** PostgreSQL • MySQL • MongoDB • Redis • DynamoDB  
-**🛠️ Tools:** Git • Nginx • Postman • Jira
+<table>
+<tr>
+<td valign="top" width="33%">
+
+#### ☁️ Cloud Platforms
+- Amazon Web Services (AWS)
+- Microsoft Azure
+- Google Cloud Platform (GCP)
+- DigitalOcean
+
+#### 🐳 Containerization
+- Docker
+- Kubernetes (K8s)
+- Helm Charts
+- Docker Compose
+- Podman
+
+</td>
+<td valign="top" width="33%">
+
+#### 🔧 Infrastructure as Code
+- Terraform
+- Ansible
+- CloudFormation
+- Pulumi
+
+#### 🔄 CI/CD Tools
+- GitHub Actions
+- Jenkins
+- GitLab CI/CD
+- ArgoCD
+- CircleCI
+
+</td>
+<td valign="top" width="33%">
+
+#### 📊 Monitoring & Logging
+- Prometheus
+- Grafana
+- ELK Stack
+- Splunk
+- Datadog
+- CloudWatch
+
+#### 💻 Languages & Scripting
+- Python
+- Bash/Shell
+- PowerShell
+- YAML/JSON
+- Go
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+#### 🗄️ Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
+- DynamoDB
+
+</td>
+<td valign="top" width="33%">
+
+#### 🔐 Security & Compliance
+- HashiCorp Vault
+- AWS IAM
+- SonarQube
+- Trivy
+- OWASP ZAP
+
+</td>
+<td valign="top" width="33%">
+
+#### 🛠️ Other Tools
+- Git & GitHub
+- Nginx
+- Postman
+- Jira
+- Slack
+- VS Code
+
+</td>
+</tr>
+</table>
 
 </details>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Key Achievements & Impact
 
 <div align="center">
 
-| 🎯 Achievement | 📈 Impact |
-|:--------------|:----------|
-| **Automated CI/CD Pipeline** | Reduced deployment time by 60% |
-| **Infrastructure as Code** | Managed 15+ cloud resources with Terraform |
-| **Container Orchestration** | Deployed 10+ microservices on Kubernetes |
-| **Monitoring Setup** | Achieved 99.9% uptime with Prometheus & Grafana |
-| **Google Cloud Certified** | Professional Cloud Certification |
+| 🎯 Achievement | 📈 Impact | 🛠️ Technologies |
+|:--------------|:----------|:----------------|
+| **Automated CI/CD Pipeline** | ⚡ Reduced deployment time by **60%** | Jenkins, GitHub Actions, Docker |
+| **Infrastructure as Code** | 🏗️ Managed **15+ cloud resources** efficiently | Terraform, Ansible, AWS |
+| **Container Orchestration** | 🐳 Deployed **10+ microservices** at scale | Kubernetes, Helm, Docker |
+| **Monitoring & Observability** | 📊 Achieved **99.9% uptime** | Prometheus, Grafana, ELK |
+| **Cloud Certification** | 🎓 **Google Cloud Professional** certified | GCP |
+| **Cost Optimization** | 💰 Reduced cloud costs by **40%** | AWS, Resource Tagging |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cloud-with-preetham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cloud-with-preetham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=cloud-with-preetham&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-with-preetham&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=cloud-with-preetham&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-with-preetham&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=cloud-with-preetham&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cloud-with-preetham&theme=tokyonight" width="98%" />
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured DevOps Projects
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🔹 [Project Name 1](https://github.com/cloud-with-preetham)
-Kubernetes multi-tier application with automated CI/CD pipeline
-- **Stack:** Docker, Kubernetes, GitHub Actions
-- **Features:** Auto-scaling, Rolling updates, Monitoring
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=cloud-with-preetham&repo=kubernetes-microservices&theme=tokyonight&hide_border=true" />
+
+**Kubernetes Multi-Tier App**
+
+Production-ready microservices architecture with automated CI/CD
+
+`Docker` `Kubernetes` `GitHub Actions` `Helm`
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🔹 [Project Name 2](https://github.com/cloud-with-preetham)
-AWS infrastructure automation using Terraform
-- **Stack:** Terraform, AWS, Ansible
-- **Features:** VPC, EKS, RDS, S3, CloudWatch
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=cloud-with-preetham&repo=terraform-aws-infrastructure&theme=tokyonight&hide_border=true" />
+
+**AWS Infrastructure Automation**
+
+Complete IaC solution for AWS cloud infrastructure
+
+`Terraform` `AWS` `Ansible` `CloudWatch`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🔹 [Project Name 3](https://github.com/cloud-with-preetham)
-Complete CI/CD pipeline automation
-- **Stack:** Jenkins, Docker, Python
-- **Features:** Testing, Building, Deployment, Monitoring
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=cloud-with-preetham&repo=cicd-pipeline-automation&theme=tokyonight&hide_border=true" />
+
+**Enterprise CI/CD Pipeline**
+
+End-to-end automated deployment pipeline
+
+`Jenkins` `Docker` `Python` `Prometheus`
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🔹 [More Projects →](https://github.com/cloud-with-preetham?tab=repositories)
-Explore more DevOps projects, automation scripts, and infrastructure code!
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=cloud-with-preetham&repo=devops-automation-scripts&theme=tokyonight&hide_border=true" />
+
+**DevOps Automation Scripts**
+
+Collection of production-ready automation scripts
+
+`Bash` `Python` `Ansible` `Terraform`
 
 </td>
 </tr>
 </table>
+
+<a href="https://github.com/cloud-with-preetham?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
@@ -148,22 +267,49 @@ Explore more DevOps projects, automation scripts, and infrastructure code!
 
 ---
 
-## 💬 Let's Connect!
+## 📝 Latest Blog Posts & Content
 
 <div align="center">
 
-I'm always open to interesting conversations, collaboration opportunities, and DevOps discussions.
+<!-- YOUTUBE:START -->
+- 🎥 [Building Production-Ready Kubernetes Clusters](https://youtube.com/@cloud_with_preetham)
+- 🎥 [CI/CD Pipeline Best Practices](https://youtube.com/@cloud_with_preetham)
+- 🎥 [Terraform AWS Infrastructure Guide](https://youtube.com/@cloud_with_preetham)
+- 🎥 [Docker & Kubernetes Masterclass](https://youtube.com/@cloud_with_preetham)
+<!-- YOUTUBE:END -->
 
-**Feel free to reach out!** 🚀
+<a href="https://youtube.com/@cloud_with_preetham">
+  <img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/preetham-pereira)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:reachout.preetham@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/AWFGj3vh)
+</div>
 
 ---
 
-*"Automate everything, monitor everything, improve everything."*
+## 💬 Let's Connect & Collaborate!
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+**Open to collaborations, DevOps discussions, and exciting opportunities!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/preetham-pereira)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@cloud_with_preetham)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:reachout.preetham@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/AWFGj3vh)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x)](https://x.com/yourcloudguy_)
+
+---
+
+### 💭 DevOps Quote of the Day
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Automate%20everything,%20monitor%20everything,%20improve%20everything.&author=DevOps%20Philosophy)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+**⭐ From [cloud-with-preetham](https://github.com/cloud-with-preetham) | Building the future, one pipeline at a time**
 
 </div>
