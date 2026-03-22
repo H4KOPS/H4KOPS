@@ -1,89 +1,24 @@
-# Preetham Pereira - DevOps Engineer
+# 💫 About Me:
+🔭 I’m currently working on building CI/CD pipelines and Kubernetes-based deployments.  <br>👯 I’m looking to collaborate on Open Source DevOps and Cloud projects.  <br>🤝 I’m looking for help with GitOps, Service Mesh, and Production-grade Kubernetes.  <br>🌱 I’m currently learning Advanced DevOps tools and Cloud Architecture.  <br>💬 Ask me about Docker, Kubernetes, Linux, Terraform, and CI/CD.  <br>⚡ Fun fact: I try to automate every repetitive task I see.
 
-## About Me
 
-I am a beginner-level DevOps Engineer passionate about Cloud, Automation, and Infrastructure. I am currently learning and building real-world projects in DevOps including CI/CD, Kubernetes, Docker, Terraform, and Cloud technologies.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/UyJDETYTY9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/preetham-pereira) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yourcloudude) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32448872) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yourcloudude) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@cloud_with_preetham) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reachout.preetham@gmail.com) 
 
-I believe in **"Automate Everything, Monitor Everything, Improve Everything."**
+# 💻 Tech Stack:
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cloud-with-preetham&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=cloud-with-preetham&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-with-preetham&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=cloud-with-preetham&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## Skills
-
-### Cloud
-
-* AWS
-* Azure (Basics)
-* GCP (Basics)
-
-### DevOps Tools
-
-* Docker
-* Kubernetes
-* Jenkins
-* GitHub Actions
-* Terraform
-* Ansible
-* Helm
-
-### Monitoring
-
-* Prometheus
-* Grafana
-
-### Scripting
-
-* Bash
-* Python (Basics)
-
-### Other Tools
-
-* Git & GitHub
-* Linux
-* Nginx
-* PostgreSQL
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=cloud-with-preetham&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=cloud-with-preetham&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## DevOps Projects
-
-### 1. CI/CD Pipeline Project
-
-Built a complete CI/CD pipeline using Jenkins, Docker, and GitHub Actions to automate build, test, and deployment process.
-
-### 2. Kubernetes Microservices Deployment
-
-Deployed a multi-tier application on Kubernetes with Ingress, Services, ConfigMaps, and Secrets.
-
-### 3. Terraform AWS Infrastructure
-
-Provisioned AWS infrastructure using Terraform including EC2, S3, VPC, and IAM.
-
-### 4. Monitoring Setup
-
-Implemented monitoring using Prometheus and Grafana for Kubernetes cluster.
-
----
-
-## Currently Learning
-
-* Advanced Kubernetes
-* GitOps (ArgoCD)
-* Service Mesh (Istio)
-* AWS DevOps Tools
-* Observability
-
----
-
-## Connect With Me
-
-* LinkedIn: [https://linkedin.com/in/preetham-pereira](https://linkedin.com/in/preetham-pereira)
-* YouTube: [https://youtube.com/@cloud_with_preetham](https://youtube.com/@cloud_with_preetham)
-* GitHub: [https://github.com/cloud-with-preetham](https://github.com/cloud-with-preetham)
-* Email: [reachout.preetham@gmail.com](mailto:reachout.preetham@gmail.com)
-
----
-
-## Goal
-
-My goal is to become a **Cloud & DevOps Engineer** and work on production-grade infrastructure and automation projects.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
